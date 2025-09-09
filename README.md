@@ -2,4 +2,4 @@
 first reposity
 
 
-Repositório somente para escrever anotações da aula
+Repositório somente para escrever anotações da aula e estudos futuros
